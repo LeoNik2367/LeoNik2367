@@ -21,6 +21,20 @@
 <picture><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true"></picture> 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<p style="color: white; font-family: 'Pacifico', cursive; font-size: 18px;">
+  I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
+  I am committed to lifelong learning and collaboration. 
+  I aim to make impactful contributions. 
+  I seek to use my skills to drive innovation, growth, and cybersecurity. 
+  I uphold integrity, continuous improvement, and teamwork. 
+  **Think of me as a dynamic function, always optimizing for innovation and teamwork.** 
+  I debug obstacles with integrity and improvement.
+</p>
+
+
+
+
+
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
