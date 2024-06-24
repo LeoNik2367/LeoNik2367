@@ -321,3 +321,6 @@
 	<img src = "https://github.com/LeoNik2367/LeoNik2367/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 -->
+<p align="center">
+  <a href="https://github.com/LeoNik2367/Leo-Readme/tree/main">Check out my GitHub for more!</a>
+</p>
