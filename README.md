@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Leo Nikhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Division+4+on+Codechef+(1+Stars);1340+GloabalRank+on+SmartInterviews;Always+learning+new+things"></a>
 </p>
 
 
@@ -19,22 +19,17 @@
 -->
 </p>
 <picture><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true"></picture> 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><strong>About Me</strong>
 
-<p style="color: white; font-family: 'Pacifico', cursive; font-size: 18px;">
-  I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
+<p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
+  <strong>I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
   I am committed to lifelong learning and collaboration. 
   I aim to make impactful contributions. 
   I seek to use my skills to drive innovation, growth, and cybersecurity. 
   I uphold integrity, continuous improvement, and teamwork. 
-  **Think of me as a dynamic function, always optimizing for innovation and teamwork.** 
-  I debug obstacles with integrity and improvement.
+  <strong>Think of me as a dynamic function, always optimizing for innovation and teamwork.
+  I debug obstacles with integrity and improvement.</strong>
 </p>
-
-
-
-
-
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
@@ -44,7 +39,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME][(http://lnkiy.in/Ahmed_Hossam_Resume)](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
