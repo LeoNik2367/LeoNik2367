@@ -322,5 +322,6 @@
 </p>
 -->
 <p align="center">
-  <a href="https://github.com/LeoNik2367">My GitHub</a> | <a href="https://github.com/LeoNik2367/Leo-Readme/tree/main">My README Repository</a>
+  <a href="https://github.com/LeoNik2367">My GitHub Profile</a> | 
+  <a href="https://github.com/LeoNik2367/Leo-Readme/tree/main">My Repository</a>
 </p>
