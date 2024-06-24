@@ -321,6 +321,18 @@
 	<img src = "https://github.com/LeoNik2367/LeoNik2367/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 -->
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&theme=radical" alt="Leo Nikhil's GitHub Stats">
+  </p>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNik2367&layout=compact&theme=radical" alt="Leo Nikhil's Top Languages">
+  </p>
+</details>
+
 <p align="center">
   <a href="https://github.com/LeoNik2367">My GitHub Profile</a> | 
   <a href="https://github.com/LeoNik2367/Leo-Readme/tree/main">My Repository</a>
