@@ -42,16 +42,10 @@
 - 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+-->
 <br>
-<!---HSure, here's a condensed version with emojis:
 
-🚀 Participated in numerous hackathons, advocating software as a solution for every challenge.  
-💻 Competitive programmer on Codeforces, LeetCode, and CodeChef.  
-📚 Currently mastering Computer Science and Software Engineering.  
-👨‍💼 Vice President at CodeOhloics, constantly adopting new technologies.  
-🌱 Open to new opportunities in software development and cybersecurity.  
-💡 Committed to driving innovation, integrity, and teamwork.
 <!---
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
