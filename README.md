@@ -36,7 +36,7 @@
 - :school: I am a `Final Year Engineerig Student` at [CMR TECHNICAL CAMPUS.]
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view).
