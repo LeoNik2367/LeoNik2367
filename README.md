@@ -5,18 +5,8 @@
 
 
 <br>
-<!---
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<!--<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
--->
+
+
 </p>
 <picture><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true"></picture> 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><strong>About Me</strong>
@@ -45,6 +35,25 @@
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonik2367&label=Profile%20views&color=0e75b6&style=flat" alt="leonik2367" /> </p>
+
+<h3 align="left">🌐 Connect with me</h3>
+
+----
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19225762/leo-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19225762/leo-nikhil" height="30" width="40" /></a>
+<a href="https://instagram.com/leonik_2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/flashnuke_2367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/leonuke2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leonik2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leonik2367" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mnikhilleo" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
+<a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="548046445677379596" height="30" width="40" /></a>
+</p>
 
 <h3> 🔥 Streak Stats</h3>
 
