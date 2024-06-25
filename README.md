@@ -91,7 +91,6 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" /></a> </p>
 
-[![@LeoNik2367's Holopin board](https://holopin.io/api/user/board?user=LeoNik2367)](https://holopin.io/@LeoNik2367)
 	
 
 <!---
