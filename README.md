@@ -66,6 +66,13 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+  
+<h3>⚡ Recent GitHub Activity</h3>
+
+----
+	
+[![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)
+
 
 <!---
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
