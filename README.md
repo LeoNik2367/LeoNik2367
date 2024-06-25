@@ -314,13 +314,13 @@
 </details>
 
 </br></br>
-	
+-->	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/LeoNik2367/LeoNik2367/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
--->
+
   <h3>⚡ Recent GitHub Activity</h3>
   <br>
   <p align="center">
