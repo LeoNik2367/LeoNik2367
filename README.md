@@ -85,6 +85,15 @@
 [![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)
 
 
+<h3> :trophy: Git Profile Trophies </h3>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" /></a> </p>
+
+[![@LeoNik2367's Holopin board](https://holopin.io/api/user/board?user=LeoNik2367)](https://holopin.io/@LeoNik2367)
+	
+
 <!---
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
