@@ -349,6 +349,7 @@
 	<img src = "https://github.com/LeoNik2367/LeoNik2367/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 -->
+<!--another not useful block
   <h3>⚡ Recent GitHub Activity</h3>
   <br>
   <p align="center">
@@ -359,20 +360,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNik2367&layout=compact&theme=radical" alt="Leo Nikhil's Top Languages">
   </p>
 <!--Use this Tag to have a clickable option to folder it<summary></summary><details></details>
+-->
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="LeoNik2367's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/LeoNik2367">My GitHub Profile</a> | 
