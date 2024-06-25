@@ -45,6 +45,15 @@
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
 <br>
+
+<h3> 🔥 Streak Stats</h3>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=tokyonight_duo" alt="LeoNik2367" /></p>
+
+
+
 <h3>💻 GitHub Profile Stats</h3>
 
 ----
