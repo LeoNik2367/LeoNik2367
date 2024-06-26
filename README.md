@@ -33,7 +33,7 @@
 - 🔍 Open to internships and new job opportunities in software development.
 - 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
-- :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view).
+- :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view?usp=drivesdkview).
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
 <br>
