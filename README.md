@@ -27,10 +27,10 @@
 
 - :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS.]
 - 🚀 Actively participated in numerous hackathons, leveraging software as a solution and continually upskilling.
-- 💻 Experienced web developer and competitive programmer, currently advancing skills in Advanced Web Development.
-- 🎓 Vice President of CodeOholics at CMR Technical Campus, fostering a community of tech enthusiasts.
+- 💻 Experienced `web developer and competitive programmer`, currently advancing skills in Advanced Web Development.
+- 🎓 `Vice President` of CodeOholics at CMR Technical Campus, fostering a community of tech enthusiasts.
 - 🌱 Always learning new technologies and methodologies to stay ahead in the field.
-- 🔍 Open to internships and new job opportunities in software development.
+- 🔍 Open to `internships and new job opportunities` in software development.
 - 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view?usp=drivesdkview).
