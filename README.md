@@ -97,7 +97,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" /></a> </p>
 
-<h3> :open_file_folder: My Repositories </h3>
+<h3> :open_file_folder: My Repositories</h3>
 
 ----
 	
