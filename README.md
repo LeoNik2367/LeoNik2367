@@ -19,15 +19,15 @@
   I aim to make impactful contributions. 
   I seek to use my skills to drive innovation, growth, and cybersecurity. 
   I uphold integrity, continuous improvement, and teamwork. 
-  <strong>Think of me as a dynamic function, always optimizing for innovation and teamwork.
-  I debug obstacles with integrity and improvement.</strong>
+  <strong>`Think of me as a dynamic function, always optimizing for innovation and teamwork.
+  I debug obstacles with integrity and improvement.`</strong>
 </p>
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
 - :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS.]
 - 🚀 Actively participated in numerous hackathons, leveraging software as a solution and continually upskilling.
-- 💻 Experienced `web developer and competitive programmer`, currently advancing skills in Advanced Web Development.
+- 💻 Experienced `Web developer and Competitive programmer`, currently advancing skills in Advanced Web Development and BlockChain.
 - 🎓 `Vice President` of CodeOholics at CMR Technical Campus, fostering a community of tech enthusiasts.
 - 🌱 Always learning new technologies and methodologies to stay ahead in the field.
 - 🔍 Open to `internships and new job opportunities` in software development.
