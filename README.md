@@ -24,7 +24,6 @@
 </p>-->
 
 ----
-
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
   <strong>I am a fervent explorer of blockchain 🧩, web development 🌐, machine learning 🤖, software engineering 💻, and cybersecurity 🔒.
   My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.<br>
@@ -45,7 +44,7 @@
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
-<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/back%20to%20future.png?raw=true" width="130px"></picture>
+<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/back%20to%20future.png?raw=true" width="70px"></picture>
 <strong> Tech Journey & Aspirations</strong>
 
 ----
