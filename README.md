@@ -25,7 +25,7 @@
 
 ----
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a fervent explorer of blockchain 🧩, web development 🌐, machine learning 🤖, software engineering 💻, and cybersecurity 🔒.
+  <strong>I am a fervent explorer of Blockchain 🧩, Web development 🌐, Machine learning 🤖, Software engineering 💻, and Cybersecurity 🔒.
   My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I strive to pioneer transformative advancements.</li>
