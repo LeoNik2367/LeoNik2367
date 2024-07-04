@@ -14,8 +14,11 @@
 <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><strong> About Me </strong>
 <!--<picture><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80px"></picture>-->
 <!--<picture><img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwNTk4NjcsIm5iZiI6MTcyMDA1OTU2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA0VDAyMTkyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlM2JiZDAyYmMwMjcyOWY0MzVmMTk1YWE1ZTI0ZGRkNDM4YzE5NzU5YTY5M2FjMmY4NzY5OWY3MWM4ZTNjMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xGpUARo74nxys8PESzfiobAxVyMGMCfV7wTMcAWuqCI" width="100px"></picture><strong> About Me </strong>-->
-<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/iron%20man.png?raw=true" width="90px"></picture><strong> About Me </strong>
-
+<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/iron%20man.png?raw=true" width="90px"></picture><strong>About Me </strong>
+<!--<p align="center">
+  <picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/iron%20man.png?raw=true" width="90px"></picture>
+  <strong style="font-size: 24px;">About Me</strong>
+</p>-->
 
 ----
 
@@ -28,11 +31,14 @@
     <li>➜ I prioritize integrity, embrace continuous enhancement, and thrive in collaborative environments.</li>
   </ul></strong>
 </p>
-<p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px; text-align: center;">
-  <strong>`Think of me as a dynamic function, optimizing for innovation and teamwork.
-  I debug challenges with integrity and continuous improvement.`</strong>
-</p>
 
+<p align="center">
+  <strong style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
+    🛠️ Debugging challenges with integrity and continuous improvement:
+    <br>
+    <code>"Think of me as a dynamic function, optimizing for innovation and teamwork."</code>
+  </strong>
+</p>
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 🚀 <strong> Tech Journey & Aspirations <strong/>
