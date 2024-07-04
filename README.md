@@ -19,14 +19,19 @@
 ----
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
-  I am committed to lifelong learning and collaboration. 
-  I aim to make impactful contributions. 
-  I seek to use my skills to drive innovation, growth, and cybersecurity. 
-  I uphold integrity, continuous improvement, and teamwork. 
-  <strong>`Think of me as a dynamic function, always optimizing for innovation and teamwork.
-  I debug obstacles with integrity and improvement.`</strong>
+  <strong>I am a fervent explorer of blockchain 🧩, web development 🌐, machine learning 🤖, software engineering 💻, and cybersecurity 🔒.
+  My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.</strong><br>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>➜ I strive to pioneer transformative advancements.</li>
+    <li>➜ I leverage my expertise to catalyze innovation, propel growth, and safeguard digital landscapes.</li>
+    <li>➜ I prioritize integrity, embrace continuous enhancement, and thrive in collaborative environments.</li>
+  </ul>
 </p>
+<p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px; text-align: center;">
+  <strong>`Think of me as a dynamic function, optimizing for innovation and teamwork.
+  I debug challenges with integrity and continuous improvement.`</strong>
+</p>
+
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
