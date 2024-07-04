@@ -20,12 +20,12 @@
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
   <strong>I am a fervent explorer of blockchain 🧩, web development 🌐, machine learning 🤖, software engineering 💻, and cybersecurity 🔒.
-  My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.</strong><br>
+  My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I strive to pioneer transformative advancements.</li>
     <li>➜ I leverage my expertise to catalyze innovation, propel growth, and safeguard digital landscapes.</li>
     <li>➜ I prioritize integrity, embrace continuous enhancement, and thrive in collaborative environments.</li>
-  </ul>
+  </ul></strong>
 </p>
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px; text-align: center;">
   <strong>`Think of me as a dynamic function, optimizing for innovation and teamwork.
