@@ -118,7 +118,7 @@
 ----
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&no-frame=true&theme=juicyfresh" alt="LeoNik2367" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&no-frame=false&theme=juicyfresh" alt="LeoNik2367" />
   </a>
 </p>
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" /></a> </p>
