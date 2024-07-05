@@ -87,7 +87,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=tokyonight_duo" alt="LeoNik2367" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=neon-dark" alt="LeoNik2367" /></p>
 
 
 
