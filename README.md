@@ -14,7 +14,7 @@
 <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><strong> About Me </strong>
 <!--<picture><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80px"></picture>-->
 <!--<picture><img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwNTk4NjcsIm5iZiI6MTcyMDA1OTU2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA0VDAyMTkyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlM2JiZDAyYmMwMjcyOWY0MzVmMTk1YWE1ZTI0ZGRkNDM4YzE5NzU5YTY5M2FjMmY4NzY5OWY3MWM4ZTNjMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xGpUARo74nxys8PESzfiobAxVyMGMCfV7wTMcAWuqCI" width="100px"></picture><strong> About Me </strong>-->
-<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/batman-transformed.png?raw=true" width="60px"></picture>
+<picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/batman-transformed.png?raw=true" width="50px"></picture>
 <strong>About Me</strong>
 
 
@@ -107,8 +107,8 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 ----
-	
-[![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)-->
 
 
 <h3> :trophy: Git Profile Trophies </h3>
