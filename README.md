@@ -98,8 +98,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="LeoNik2367's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoNik2367&langs_count=10&show_icons=true&locale=en&theme=neon" alt="LeoNik2367" height="230px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoNik2367&langs_count=10&show_icons=true&locale=en&theme=neon" alt="LeoNik2367" height="230px"/>
+  </a>
 </p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
