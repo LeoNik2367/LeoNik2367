@@ -20,7 +20,6 @@
 <picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/batman-transformed.png?raw=true" width="50px"></picture>
 <strong>About Me</strong>
 
-
 <!--<p align="center">
   <picture><img src="https://github.com/LeoNik2367/LeoNik2367/blob/main/LeoNik2367-main/Images/iron%20man.png?raw=true" width="90px"></picture>
   <strong style="font-size: 24px;">About Me</strong>
