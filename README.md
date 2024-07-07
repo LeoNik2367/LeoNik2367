@@ -49,7 +49,7 @@
 <strong> Tech Journey & Aspirations</strong>
 
 ----
-- :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS.]
+- :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS].
 - 🚀 Actively participated in numerous hackathons, leveraging software as a solution and continually upskilling.
 - 💻 Experienced `Web developer and Competitive programmer`, currently advancing skills in Advanced Web Development and BlockChain.
 - 🎓 `Vice President` of CodeOholics at CMR Technical Campus, fostering a community of tech enthusiasts.
